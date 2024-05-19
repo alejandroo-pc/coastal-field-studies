@@ -1,14 +1,15 @@
 ---
-title: "Fort Ord"
+title: "Neary Lagoon"
 description: "This post is for testing the draft post functionality"
-publishDate: "28 March, 2024"
-tags: ["Montery", "Endemic", "Lichen", "Cleanup"]
+publishDate: "15 March, 2024"
+tags: ["Santa-Cruz", "Lichen"]
+draft: true
 coverImage:
-  src: "./cover-image/3-fort-ord.jpeg"
-  alt: "Fort Ord Lichen"
+  src: "./cover-image/2-davenport.jpeg"
+  alt: "Davenport tidepool sea star and anaemone"
 ---
 
-Photos of Fort Ord can be viewed [here](https://dropover.cloud/88b995), enjoy!
+Photos of Neary Lagoon can be viewed [here](https://dropover.cloud/4499f9), enjoy!
 
 ## History
 

@@ -8,7 +8,7 @@ coverImage:
   alt: "Santa Margarita Sandstone cover"
 ---
 
-Photos of the fieldtrip can be viewed [here](https://dropover.cloud/93df00), enjoy!
+Photos of Panther/Hole in The Wall Beach can be viewed [here](https://dropover.cloud/93df00), enjoy!
 
 ## Geological Features
 
