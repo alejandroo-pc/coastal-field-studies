@@ -1,60 +1,48 @@
 ---
 title: "Panther Beach"
-description: "This post is for testing the draft post functionality"
+description: "hole in the wall beach and panther beach field trip"
 publishDate: "16 Feb 2024"
-tags: ["Santa-Cruz", "Erosion-Coast"]
-draft: true
-ogImage: "/social-card.png"
+tags: ["Santa-Cruz", "Erosion-Coast", "Mudstone"]
+coverImage:
+  src: "./cover-image/1-panther.png"
+  alt: "Santa Margarita Sandstone cover"
 ---
 
-1. What type of coastare you viewing? what geological and or geographica features are present what tipeor geomorphological processes might have
-   Shaped this site?
+Photos of the fieldtrip can be viewed [here](https://dropover.cloud/93df00), enjoy!
 
-- Long dirt path is a marine terrace, 200k years old
-- From parking lot, walked on trail, through a bridge during low tide
-- Erosional coast line, collisional coast (most)
+## Geological Features
 
-2. What habitats are at this site?
-1. what species?
+**Hole In The Wall Beach**
 
-- Gofer holes
+- First and second marine terrace (~200,000 years old)
+- Monterey sandstone: sedimentary, orange from oxidized iron, black/gray from midmen (oil)
+- Santa Margarita sandstone: tan beige, pressure-formed dikes and sills
+- Santa Cruz mudstone: ancient ocean sediments, high silica content
+- Erosion created a arch connecting Panther Beach Hole In the Wall Beach
+- Fossilized remains of marine life within the sedimentary layers
 
-1. Does the habitat look heathy, why or why not?
+## Habitats and Species
 
-- Lots of weeds but coastal plants to bloom soon
-- Opirculum
+**Species**
 
-- Monterey Sand stone, sedimentary rock
-- Santa Margarita sand stone (tan beige)
-  - Cold intrusions, liquified rock
-  - Squeezed and pushed up (pressure)
-  - The biggest area above grand in 🌍
-  - Vertical lines, dykes
-  - Sills
-  - Color: oxidized iron (orange)
-  - Black/gray: mídemen, form of oil (thick)
-  - Shipped and used as asphalt
-  - 1880s-1940s
-- Santa Cruz mud stone
-  - Ocean sediments, old
-- Panther beach, lots of silica, organisms
+- Coastal plants (weeds currently, with blooms expected soon)
+- Marine snails (operculum)
+- Burrowing species like beach hoppers and sand crabs
+- Seasonal migrations of whales and dolphins visible from the shoreline
 
-2.  what kind of human influences are affecting this site? can you see evidense of these impact Ane these infuences historic, recent, or ongoing: what migh tissite look like iF numans had not had these impacts?
+## Human Influences
 
-- Parking lot to be built
-- Rail road tracks, connecting Santa Cruz-SF
-- NEVER completed, ending in Davenport
-- Sf -> San Mateo tracks, big gap
-- Awaswas people:
-  - Colonization
-- Swiss families started dairy farms
-- Ocean is state owned and inland is powered by coastaries
+**Impacts**
 
-1.  Are thore conservation or preservation actions going on at the site? nere there in thepast?
+- Incomplete railroad project
+- Initial plans to stretch to San Fransico were abandoned
+- Railroad gap from San Mateo to Davenport
+- Parking lot was built to provide recreational access
+- Development of hiking trails and viewing platforms altering access patterns and wildlife behavior
 
-- Back of the beach is man made for railroad
-- Yellow back creek
-- Built trussles, wooden rail road trussle
-- Redirected creek by creating a hole on other side
-- Natural path is altered, no small lake and marsh
-- Legacy impact: railroad, making creek narrow, affecting erosion and sediment
+**Legacy Impacts**
+
+- Railroad trusses and redirected Yellow Bank Creek
+  - dynamite used to redirect creek for railroad project
+  - altered natural creek path, preventing lake and marsh formation
+- Introduction of non-native plant species disrupting the native ecosystem (ice plant)
