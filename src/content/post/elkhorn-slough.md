@@ -2,48 +2,45 @@
 title: "Elkhorn Slough"
 description: "This post is for Elkhorn slough Kayaking trip in Montery CA"
 publishDate: "3 May, 2024"
-tags: ["Montery", "sea-otters", "Kayak"]
-draft: true
+tags: ["Montery", "sea-otters", "Kayak", "Moss-Landing"]
 coverImage:
-  src: "./cover-image/1-panther.png"
-  alt: "Santa Margarita Sandstone cover"
+  src: "./cover-image/6-elkhorn.jpeg"
+  alt: "Elkhorn Slough Otters"
 ---
 
-## Elk Horn Slough
+Picture source: [Elkhorn Slough Safari](https://www.seemonterey.com/listings/elkhorn-slough-safari/1693/)
 
-Land/Habitat Info
+No pictures taken since we were Kayaking.
 
-- slough is a “meandering river”
-- We are at the mouth of the canyon
-- 2nd largest estuary in the U.S
-- ~1700 acres surrounded by agriculture
+## Human History
+
+- Tribal history:
+  - Spanish settlers in the 1700s
+  - Mid-1800s gold rush, then California became a state, leading to agricultural increase
+  - After railroads were introduced, there was lots of recreation in the estuary
+  - Now a completely protected ecosystem
+- Heavy nitrate pollution near agricultural land
+  - Causes algae bloom, a toxic environment for invertebrates and sea otters
+- $2.2 million invested in estuary restoration
+
+## Land/Habitat Info
+
+- The slough is a "meandering river"
+- Located at the mouth of a canyon
+- Second largest estuary in the U.S.
+- Approximately 1700 acres surrounded by agriculture
 - Where freshwater and salt water meet
 - Influenced by the rising and lowering tide
-- Pickup and rehabilitate otters
-  - Safer at the sanctuary
-  - Less biodiversity loss
+- Used for picking up and rehabilitating otters
+- Safer at the sanctuary, with less biodiversity loss
 
-## Human History - Carter
+## Human Impact - Power Plant
 
-Tribal history
-
-- Spanish settlers in the 1700s
-- Mid 1800s gold rush, then Ca = state and agricultural increase
-- After railroads introduced, lots of recreation in estuary
-- Now, completely protected ecosystem
-- Heavy nitrate pollution near agriculture land
-  - This causes algae bloom, a toxic environment for invertebrates and sea otters 🦦
-- 2.2 million dollars to estuary restoration
--
-
-## History - power plant
-
-- originally opened in 1950, expanded in 1964
-- Main source of energy for central coast
-- 2002 new units were added
-- 2015 natural gas usage was stopped
-- Once through cooling: intake of water, cools, and out
-  - Released back into the slough as warm water
-- Turned into battery, two storage facilities
-  Effects
-- Water being pulled into plant, micro organisms get warmed up
+- Originally opened in 1950, expanded in 1964
+- Main source of energy for the central coast
+- Natural gas usage was stopped in 2015
+- Once-through cooling system:
+  - Intake of water for cooling
+  - Warm water released back into the slough
+- Turned into a battery facility with two storage facilities
+  - set to expandedin the near future
