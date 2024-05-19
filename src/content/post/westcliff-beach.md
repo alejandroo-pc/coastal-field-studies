@@ -5,10 +5,10 @@ publishDate: "12 April 2024"
 tags: ["Santa-Cruz", "Coastal-Engineering", "Riprap", "Cliff-House"]
 coverImage:
   src: "./cover-image/5-westcliff.jpeg"
-  alt: "Santa Margarita Sandstone cover"
+  alt: "Westcliff Class Picture"
 ---
 
-Photos of Westcliff and Seabright beach can be viewed [here](https://dropover.cloud/93df00), enjoy!
+Photos of Westcliff and Seabright beach can be viewed [here](https://dropover.cloud/1be7a1), enjoy!
 
 ## West Cliff Beach
 

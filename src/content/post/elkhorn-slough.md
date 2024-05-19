@@ -1,10 +1,12 @@
 ---
 title: "Elkhorn Slough"
-description: "This post is for testing the draft post functionality"
+description: "This post is for Elkhorn slough Kayaking trip in Montery CA"
 publishDate: "3 May, 2024"
-tags: ["Montery", "Kayak"]
+tags: ["Montery", "sea-otters", "Kayak"]
 draft: true
-ogImage: "/social-card.png"
+coverImage:
+  src: "./cover-image/1-panther.png"
+  alt: "Santa Margarita Sandstone cover"
 ---
 
 ## Elk Horn Slough
