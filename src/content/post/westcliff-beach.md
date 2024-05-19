@@ -1,53 +1,61 @@
 ---
-title: "West Cliff Beach"
-description: "This post is for testing the draft post functionality"
+title: "West Cliff / Seabright Beach"
+description: "This post is for our Santa Cruz Fieldtrip to Santa Cruz"
 publishDate: "12 April 2024"
-tags: ["Santa-Cruz", "Coastal Engineering"]
+tags: ["Santa-Cruz", "Coastal-Engineering", "Riprap", "Cliff-House"]
 draft: true
 ogImage: "/social-card.png"
 ---
 
-## West cliff Beach
+Photos of Westcliff and Seabright beach can be viewed [here](https://dropover.cloud/93df00), enjoy!
 
-## Coastal Armoring
+## West Cliff Beach
 
-- sea walls to protect the face of the coast
-- Riprap is a common rock along coastline
-- Soft armoring: restoring dunes, coral, utilizing restoration (natural) instead of man made
-- Sea wall:
-- Only works where you PUT IT
+### Human Influences
 
-## Downsize of armoring
+**Coastal Armoring**
 
-- economics, expensive and housing value goes down.
-- Not enough survey for permits sometimes. Often done during last min damage/prep. This may harm local wildlife
-- Coastal commission to stop permits for riprap
-- Public access: the public will always have access to beach, but riprap limits access
-- Only works where you out it, pushes the problem to another cliff, beach, house.
-  - Waves get pushed up and over into street/houses
+- Sea walls to protect the face of the coast
+- Riprap (rocks) is commonly used along the coastline
+- Soft armoring: restoring dunes, coral, utilizing restoration (natural) instead of man-made
+- Sea walls only work where they are constructed
+- Winter of 1975 - 2008:
+  - 8 major storms
+  - 33 houses destroyed
+  - 33,000 houses damaged
 
-## Managed Retreat
+**Downsides of armoring**
 
-- We can’t armor anymore…what do we do now? (Adaptation strategy)
+- Expensive and can decrease housing value
+- Lack of proper surveying for permits, often done as last-minute damage/preparation, potentially harming local wildlife
+- Coastal commission may stop permits for riprap
+- Public will always have access to the beach, but riprap limits access
+- Only works where it's placed, can redired the problem to another cliff, beach, or house
+- Waves can get pushed up and over into streets/houses
 
-## History
+## Seabright Beach / Castle Beach
 
-- Cliff house: two types of armoring
-  - Riprap
-  - Gabions: smaller rock inside a wire cage. Used in place for large rocks
-  - Provide stability and control
-- Construction during 1960s/1970s
-  - Some El Niño years
-  - Then a calm pattern, no rainfall, no storms
-  - 35/40 year period, we started building here and settling down
-- Winter 75 - 2008
-  - 8 major storms, 33 houses destroyed and 33,000 damaged
-  - More storms, wave energy, intense storms = more erosion
-- 1965 riprap started being put up
+### Habitats and Species
 
-San Lorenzo Point
+**Plants**
 
-- Compressed rock made it more erosion resistant
+- Restoration site in progress
+- Sagebrush
+- Yarrow
+- Coyote brush
 
-Seabright beach
-(Castle beach)
+### Human Influences
+
+**History**
+
+- Used to be a narrow beach
+- Bathhouse demolished in the 1960sand
+
+**Legacy Impacts**
+
+- Jetty with lighthouse protecting Santa Cruz harbor
+- Jetty collected sand, making the beach wider over time
+- Littoral drift transported sand to the south, leading to sand accumulation in the harbor
+- Beaches south of the harbor became narrower
+- Beach nourishment required due to low sand levels
+- Sand mining for cement (last beach mine closed in 2020)
