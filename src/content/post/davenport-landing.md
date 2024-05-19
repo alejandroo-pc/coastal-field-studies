@@ -8,7 +8,7 @@ coverImage:
   alt: "Davenport tidepool sea star and anaemone"
 ---
 
-Photos of Davenport Landing Tidepools can be viewed [here](https://dropover.cloud/4499f9), enjoy!
+Photos of Davenport Landing tidepools can be viewed [here](https://dropover.cloud/4499f9), enjoy!
 
 ## History
 
