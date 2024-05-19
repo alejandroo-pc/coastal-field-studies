@@ -10,22 +10,37 @@ const allPostsByDate = sortMDByDate(allPosts).slice(0, MAX_POSTS);
 
 const resources: { desc: string; href: string; title: string }[] = [
 	{
-		desc: "Build fast websites, faster.",
-		href: "https://astro.build",
-		title: "Astro",
-	},
+    title: "Environmental Studeis at SJSU",
+		desc: "explore the major!",
+		href: "https://www.sjsu.edu/envs/",
+    },
+  {
+    title: "Visit and support MBNMS",
+    desc: "Montery Bay National Marine Sanctuary Exploration Center",
+        href: "https://www.sjsu.edu/envs/",
+  },
+  {
+    title: "Montery Bay Kayaks",
+    desc: "Explore Elkhorn Slough and observe Sea Otters",
+    href: "https://www.montereybaykayaks.com",
+ },
+  {
+    title: "Harbor Seal Pups",
+    desc: "Observe the protected pups in Asilomar",
+    href: "https://kayakconnection.com/harbor-seal-pupping-season/",
+    },
+    {
+    title: "Younger Lagoon Reserve",
+    desc: "Visit and explore the reserve",
+    href: "https://ucnrs.org/reserves/younger-lagoon-reserve/",
+    }
 ];
 ---
 
 <PageLayout meta={{ title: "Home" }}>
 	<section>
 		<h1 class="title mb-6">About The Project</h1>
-		<p class="mb-4">
-       Hi, I’m alejandro
-
-    </p>
-    <br />
-    <p>
+   <p>
        This log-book contains my observations during my participation in  Coastal Field Studies(ENVS-189) led by Rachel Lazzeri-Aerts at San Jose State University.
     </p>
       <p>
