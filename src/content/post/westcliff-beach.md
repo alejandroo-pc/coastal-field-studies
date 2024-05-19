@@ -3,8 +3,9 @@ title: "West Cliff / Seabright Beach"
 description: "This post is for our Santa Cruz Fieldtrip to Santa Cruz"
 publishDate: "12 April 2024"
 tags: ["Santa-Cruz", "Coastal-Engineering", "Riprap", "Cliff-House"]
-draft: true
-ogImage: "/social-card.png"
+coverImage:
+  src: "./cover-image/5-westcliff.jpeg"
+  alt: "Santa Margarita Sandstone cover"
 ---
 
 Photos of Westcliff and Seabright beach can be viewed [here](https://dropover.cloud/93df00), enjoy!
