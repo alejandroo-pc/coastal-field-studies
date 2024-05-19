@@ -1,47 +1,39 @@
 ---
-import aboutImg from "@/assets/about-astro.png";
+import aboutImg from "@/assets/ale-cover.jpg";
 import PageLayout from "@/layouts/Base.astro";
 import { Image } from "astro:assets";
 
 const meta = {
-	description: "I'm a starter theme for Astro.build",
+  description: "About the author, Alejandro",
 	title: "About",
 };
 ---
 
 <PageLayout meta={meta}>
 	<div class="space-y-6">
-		<h1 class="title">About</h1>
-		<p>
-			Hi, I’m a starter Astro. I’m particularly great for getting you started with your own blogging
-			website.
-		</p>
-		<div class="flex justify-center">
-			<Image
-				alt="A cartoon cactus looking at the 'Astro.build' logo"
-				fetchpriority="high"
-				loading="eager"
-				src={aboutImg}
-			/>
+		<div class="flex">
+			<div class="flex-shrink-0">
+				<Image
+					alt="A cartoon cactus looking at the 'Astro.build' logo"
+					fetchpriority="high"
+					loading="eager"
+					src={aboutImg}
+					class="w-40 h-40 rounded-lg"
+				/>
+			</div>
+			<div class="ml-4">
+				<h1 class="title">About</h1>
+				<br />
+				<p>
+					I am majoring in Environmental Studies with a minor in Sustainable Energy at San Jose State University. My passion for environmental conservation drives my academic and professional goals, as I strive to contribute to sustainable solutions and a greener future.
+				</p>
+				<br />
+				<p>
+					Outside of school, I'm a Full Stack Engineer with a human-centered approach to the web. I aim to empower underrepresented communities by helping businesses establish a robust online presence through personalized websites. With a keen eye for design and a strong technical skillset, I'm committed to bridging the digital divide.
+				</p>
+				<br />
+			</div>
 		</div>
-		<p>Here are my some of my awesome built in features:</p>
-		<ul class="list-inside list-disc">
-			<li>I'm ultra fast as I'm a static site</li>
-			<li>I'm fully responsive</li>
-			<li>I come with a light and dark mode</li>
-			<li>I'm easy to customise and add additional content</li>
-			<li>I have Tailwind CSS styling</li>
-			<li>Shiki code syntax highlighting</li>
-			<li>Satori for auto generating OG images for blog posts</li>
-		</ul>
-		<p>
-			Clone or fork my <a
-				aria-label="github repository"
-				class="cactus-link inline-block"
-				href="https://github.com/chrismwilliams/astro-cactus"
-				rel="noopener noreferrer"
-				target="_blank">repo</a
-			> if you like me!
-		</p>
 	</div>
 </PageLayout>
+

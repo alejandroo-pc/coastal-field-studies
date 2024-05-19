@@ -3,7 +3,6 @@ title: "Asilomar"
 description: "This post is for the fildtrip to Ailomar and viewing the baby seals"
 publishDate: "10 May, 2024"
 tags: ["Montery", "tidepools", "Picnic"]
-draft: true
 coverImage:
   src: "./cover-image/7-Asilomar.jpeg"
   alt: "Davenport tidepool sea star and anaemone"
